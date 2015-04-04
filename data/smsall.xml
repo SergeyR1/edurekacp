@@ -1,0 +1,3534 @@
+<?xml version="1.0" encoding="utf-8"?><!--File Created By SMS Backup & Restore v7.25 on 06/02/2015 11:28:34--><?xml-stylesheet type="text/xsl" href="sms.xsl"?>
+<smses count="200">
+
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394478796000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>10 марта 2014 г. 22:13:16</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394729255000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>13 марта 2014 г. 19:47:35</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394729389949</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>13 марта 2014 г. 19:49:49</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394729585000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>13 марта 2014 г. 19:53:05</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394729960591</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>13 марта 2014 г. 19:59:20</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394729985958</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>13 марта 2014 г. 19:59:45</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394730175000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>13 марта 2014 г. 20:02:55</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394730628839</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>13 марта 2014 г. 20:10:28</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394807301000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 17:28:21</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394807348465</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 17:29:08</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394807503000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 17:31:43</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394808639553</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 17:50:39</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394808728000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 17:52:08</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394808803888</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 17:53:23</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394808815986</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 17:53:35</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394814314000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 19:25:14</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394814581650</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 19:29:41</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394827588000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 23:06:28</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394829825993</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>14 марта 2014 г. 23:43:45</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394830859768</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>15 марта 2014 г. 0:00:59</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394831241000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>15 марта 2014 г. 0:07:21</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394831684297</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>15 марта 2014 г. 0:14:44</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394833173000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>15 марта 2014 г. 0:39:33</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394889780000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>15 марта 2014 г. 16:23:00</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394889914687</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>15 марта 2014 г. 16:25:14</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394890206885</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>15 марта 2014 г. 16:30:06</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394890575000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>15 марта 2014 г. 16:36:15</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394891055952</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>15 марта 2014 г. 16:44:15</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394920328000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 0:52:08</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394921237091</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 1:07:17</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394921415528</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 1:10:15</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394954524980</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 10:22:04</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394954914000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 10:28:34</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394955418784</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 10:36:58</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394956072000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 10:47:52</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394981176000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 17:46:16</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394981878172</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>Заболел((
+Кормлюсь таблетками и твоей красотой.</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 17:57:58</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394982360000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 18:06:00</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394983025954</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 18:17:05</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394983189000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 18:19:49</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394983457661</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 18:24:17</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394983535000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 18:25:35</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1394983968717</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>16 марта 2014 г. 18:32:48</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395063748000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>17 марта 2014 г. 16:42:28</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395067949690</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>17 марта 2014 г. 17:52:29</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395068804000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>17 марта 2014 г. 18:06:44</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395235504000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 16:25:04</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395235957302</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 16:32:37</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395237419212</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 16:56:59</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395240083000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 17:41:23</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395240155000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 17:42:35</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395242406000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:20:06</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395242520527</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:22:00</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395242672000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:24:32</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395242916496</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:28:36</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395243032000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:30:32</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395243534598</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:38:54</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395244070000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:47:50</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395244427696</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:53:47</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395244516000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:55:16</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395244794432</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>А тебе медовых шиншилллл))Мягких как облака и забавных как мопсов))!
+Ps. я помню что Хани не мопс)</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 18:59:54</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395245745000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>19 марта 2014 г. 19:15:45</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395493559000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 16:05:59</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395494235000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 16:17:15</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395497479132</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 17:11:19</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395497535000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 17:12:15</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395498430289</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 17:27:10</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395498530519</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 17:28:50</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395499044000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 17:37:24</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395499537000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 17:45:37</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395499625498</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 17:47:05</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395500139488</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 17:55:39</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395500466000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 18:01:06</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395501966522</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 18:26:06</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395506973000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 19:49:33</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395516145000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 22:22:25</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395517057619</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>22 марта 2014 г. 22:37:37</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395572900618</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 14:08:20</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395573731000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 14:22:11</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395574276415</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 14:31:16</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395574831000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 14:40:31</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395575027128</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 14:43:47</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395575084000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 14:44:44</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395575338699</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 14:48:58</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395575423899</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 14:50:23</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395575716000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 14:55:16</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395576004586</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 15:00:04</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395576062000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 15:01:02</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395577830964</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 15:30:30</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395579711000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>23 марта 2014 г. 16:01:51</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395689346000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>24 марта 2014 г. 22:29:06</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395689854549</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>24 марта 2014 г. 22:37:34</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395690465459</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>24 марта 2014 г. 22:47:45</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395690577000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>24 марта 2014 г. 22:49:37</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395691301933</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>24 марта 2014 г. 23:01:41</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395692090000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>24 марта 2014 г. 23:14:50</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395692260506</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>24 марта 2014 г. 23:17:40</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395766691720</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 19:58:11</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395769539000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 20:45:39</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395775572267</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 22:26:12</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395777846000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 23:04:06</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395778060000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 23:07:40</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395778472450</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 23:14:32</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395778616495</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 23:16:56</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395778722000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 23:18:42</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395778763000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 23:19:23</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395779354486</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 23:29:14</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395779500000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 23:31:40</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395779702670</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>25 марта 2014 г. 23:35:02</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395851668000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 19:34:28</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395852140710</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 19:42:20</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395852220000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 19:43:40</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395853152707</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 19:59:12</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395854337510</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 20:18:57</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395854509000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 20:21:49</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395854775573</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 20:26:15</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395854950000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 20:29:10</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395855366533</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 20:36:06</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395855494000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 20:38:14</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395863199000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 22:46:39</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395864832000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>26 марта 2014 г. 23:13:52</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395892911000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 7:01:51</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>89168593698</address>
+      <date>1395893318455</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 7:08:38</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>89168593698</address>
+      <date>1395936012958</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 19:00:12</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395937023000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 19:17:03</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395937354830</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 19:22:34</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395937507000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 19:25:07</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395937699945</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 19:28:19</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395938088740</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 19:34:48</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395941891000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 20:38:11</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1395951877430</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>27 марта 2014 г. 23:24:37</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396030322573</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 21:12:02</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396030666000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 21:17:46</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396031303000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 21:28:23</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396032231946</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 21:43:51</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396032323000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 21:45:23</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396032676523</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 21:51:16</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396033218000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:00:18</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396033242152</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:00:42</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396033340000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:02:20</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396033504316</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:05:04</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396034082000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:14:42</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396034106000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:15:06</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396035253000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:34:13</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396036307553</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:51:47</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396036369000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:52:49</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396036474135</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:54:34</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396036725000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 22:58:45</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396038078605</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 23:21:18</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396038850000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>28 марта 2014 г. 23:34:10</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396190889150</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>30 марта 2014 г. 17:48:09</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396191234000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>30 марта 2014 г. 17:53:54</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396191249624</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>30 марта 2014 г. 17:54:09</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396213640000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 0:07:20</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396213710285</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 0:08:30</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396213928000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 0:12:08</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396214207611</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 0:16:47</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396214488000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 0:21:28</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396214988800</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 0:29:48</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396216008000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 0:46:48</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396266521000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 14:48:41</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396268262780</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 15:17:42</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396273265000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 16:41:05</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396296661297</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>31 марта 2014 г. 23:11:01</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396331460313</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 8:51:00</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396335073000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 9:51:13</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396335089945</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 9:51:29</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396337693000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 10:34:53</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396381345310</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 22:42:25</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396381519000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 22:45:19</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396381974444</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 22:52:54</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396382066000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 22:54:26</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396382325945</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 22:58:45</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396382412000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 23:00:12</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396382587631</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>01 апр. 2014 г. 23:03:07</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396434335000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 13:25:35</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396434628356</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 13:30:28</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396459815653</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 20:30:15</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396460156000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 20:35:56</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396460942872</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 20:49:02</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396461430000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 20:57:10</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396461749280</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 21:02:29</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396463982000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 21:39:42</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396464855240</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 21:54:15</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396464943000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 21:55:43</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396465252352</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 22:00:52</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396465374000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>02 апр. 2014 г. 22:02:54</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396514984834</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>03 апр. 2014 г. 11:49:44</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396520251000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>03 апр. 2014 г. 13:17:31</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396602267000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>04 апр. 2014 г. 12:04:27</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396603804775</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>04 апр. 2014 г. 12:30:04</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396604738145</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>04 апр. 2014 г. 12:45:38</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396607202958</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>04 апр. 2014 г. 13:26:42</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396610051000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>04 апр. 2014 г. 14:14:11</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396610421843</date>
+      <type>2</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>0</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>null</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>04 апр. 2014 г. 14:20:21</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+   <sms>
+      <protocol>0</protocol>
+      <address>+99999</address>
+      <date>1396610518000</date>
+      <type>1</type>
+      <subject>null</subject>
+      <body>текст сообщения</body>
+      <toa>145</toa>
+      <sc_toa>0</sc_toa>
+      <service_center>+8888888</service_center>
+      <read>1</read>
+      <status>-1</status>
+      <locked>0</locked>
+      <date_sent>0</date_sent>
+      <readable_date>04 апр. 2014 г. 14:21:58</readable_date>
+      <contact_name>girlfriend</contact_name>
+   </sms>
+  
+</smses>
